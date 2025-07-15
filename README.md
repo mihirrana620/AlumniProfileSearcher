@@ -9,5 +9,7 @@ GET API : /api/alumni/all
 <img width="1341" height="837" alt="image" src="https://github.com/user-attachments/assets/06f0b4cb-45c1-426d-a3a0-86d38c15a7e4" />
 
 ## PostgreSQL Database Results
+<img width="1437" height="513" alt="image" src="https://github.com/user-attachments/assets/63a142b8-be96-4464-897f-e3c4b1a97ba6" />
+
 
 
